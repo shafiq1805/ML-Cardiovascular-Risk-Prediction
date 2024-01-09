@@ -1,9 +1,9 @@
 # ML-Cardiovascular-Risk-Prediction
 This repository contains all the essential documents related to Cardiovascular Risk Prediction
 
-**Key Features
+**Key Features**
 
-Data Preprocessing:**
+**Data Preprocessing:**
 
 Handling missing values, treating outliers, and encoding categorical variables for dataset quality.
 
